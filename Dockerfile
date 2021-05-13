@@ -1,2 +1,2 @@
-FROM envoyproxy/envoy-alpine:v1.15.3
+FROM envoyproxy/envoy-alpine:v1.18.3
 RUN rm -rf /etc/envoy
